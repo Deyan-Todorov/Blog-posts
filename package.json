@@ -1,0 +1,21 @@
+{
+  "name": "blog-post",
+  "version": "1.0.0",
+  "description": "A simple blog post application utilizing RESTful principles and the framework Semantics UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deyan Todorov",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "dotenv": "^4.0.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "express-sanitizer": "^1.0.2",
+    "howler": "^2.0.4",
+    "method-override": "^2.3.9",
+    "mongoose": "^4.11.2"
+  }
+}
